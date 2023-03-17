@@ -1,1 +1,1 @@
-Site developer for WordPress
+The site is developed by WordPress
