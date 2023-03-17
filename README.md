@@ -1,1 +1,1 @@
-The site is developed by WordPress
+The site is developed by WordPress.
